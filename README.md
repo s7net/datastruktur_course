@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/379d1f40-a80d-48d9-996d-61028d6cb4b9)
+![image](https://github.com/user-attachments/assets/20471431-0080-4e17-80e6-3e77fb532590)
 # Data Structures Course
 
 ## Overview
