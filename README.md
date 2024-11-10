@@ -1,35 +1,36 @@
-![image](https://github.com/user-attachments/assets/20471431-0080-4e17-80e6-3e77fb532590)
-# Data Structures Course
+# دوره ساختمان داده‌ها
 
-## Overview
+![ساختمان داده‌ها](https://github.com/user-attachments/assets/20471431-0080-4e17-80e6-3e77fb532590)
 
-This course is designed to provide a strong foundation in data structures. You will learn how to organize, manage, and store data efficiently using various structures such as arrays, linked lists, stacks, queues, trees, graphs, and hash tables.
+## معرفی دوره
 
-### Key Topics:
-- **Introduction to Data Structures**
-  - Understanding the need for efficient data organization
-- **Arrays**
-  - Static vs. Dynamic arrays
-- **Linked Lists**
-  - Single, Double, and Circular Linked Lists
-- **Stacks & Queues**
-  - Stack (LIFO), Queue (FIFO) concepts, and applications
-- **Trees**
-  - Binary Trees, AVL Trees, B-Trees
-- **Graphs**
-  - Graph representation, BFS, DFS
-- **Hash Tables**
-  - Hash functions and collision handling techniques
+این دوره به‌منظور ارائه پایه‌ای قوی در زمینه ساختمان داده‌ها طراحی شده است. شما یاد خواهید گرفت که چگونه داده‌ها را به شکل مؤثر سازمان‌دهی، مدیریت و ذخیره کنید. ساختارهای مختلفی مانند آرایه‌ها، لیست‌های پیوندی، پشته‌ها، صف‌ها، درخت‌ها، گراف‌ها و جداول درهم‌سازی در این دوره پوشش داده می‌شوند.
 
-### Prerequisites:
-- Basic knowledge of programming (any language is fine)
-- Familiarity with algorithms will be helpful but not mandatory
+### سرفصل‌های اصلی:
+- **مقدمه‌ای بر ساختمان داده‌ها**
+  - اهمیت سازمان‌دهی کارآمد داده‌ها
+- **آرایه‌ها**
+  - مقایسه آرایه‌های ثابت و پویا
+- **لیست‌های پیوندی**
+  - لیست‌های پیوندی یک‌طرفه، دوطرفه و حلقوی
+- **پشته‌ها و صف‌ها**
+  - مفهوم پشته (LIFO) و صف (FIFO) و کاربردهای آن‌ها
+- **درخت‌ها**
+  - درخت‌های دودویی، AVL و B
+- **گراف‌ها**
+  - نمایش گراف، جستجوی اول سطح (BFS)، جستجوی اول عمق (DFS)
+- **جداول درهم‌سازی**
+  - توابع هش و روش‌های برخورد با برخوردها
 
-### Learning Outcomes:
-- Understand the fundamental data structures and their real-world applications
-- Learn to implement and manipulate these structures in code
-- Analyze the time and space complexity of different operations
-- Choose the right data structure based on problem constraints
+### پیش‌نیازها:
+- دانش اولیه برنامه‌نویسی در هر زبان
+- آشنایی با الگوریتم‌ها مفید است، اما اجباری نیست
 
-### Course Structure:
-The course will consist of lectures, code demonstrations, and hands-on exercises. Each topic will be accompanied by practice problems to strengthen your understanding.
+### دستاوردهای یادگیری:
+- درک عمیق از ساختمان داده‌های پایه و کاربردهای آن‌ها در دنیای واقعی
+- یادگیری پیاده‌سازی و تغییر این ساختارها در کد
+- تحلیل پیچیدگی زمانی و مکانی عملیات مختلف
+- انتخاب ساختمان داده مناسب بر اساس محدودیت‌های مسئله
+
+### ساختار دوره:
+این دوره شامل سخنرانی‌ها، نمایش‌های کدنویسی و تمرین‌های عملی است. هر مبحث با مسائل تمرینی همراه خواهد بود تا به درک بهتر مطالب کمک کند.
